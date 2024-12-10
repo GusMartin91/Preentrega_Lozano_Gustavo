@@ -37,3 +37,5 @@
 {"timestamp":"2024-12-10 11:31:45","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 401"}
 {"timestamp":"2024-12-10 14:00:57","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 401"}
 {"timestamp":"2024-12-10 14:00:59","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-10 17:08:17","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-10 17:08:18","level":"info","message":"Database connection successfully established on ecommerce_development"}
