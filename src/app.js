@@ -5,17 +5,10 @@ import { MongoDB } from "./config/mongoDB.config.js";
 import { config } from "./config/envs.config.js";
 import passport from 'passport';
 import { iniciarPassport } from './config/passport.config.js';
-import { UserRouter } from './routes/userRouter.js';
-import { ProductRouter } from './routes/productRouter.js';
-import { CartRouter } from './routes/cartRouter.js';
-import { MocksRouter } from './routes/mocks.router.js';
+import indexRouter from "./routes/index.router.js";
 import winstonLogger from './utils/winston.utils.js';
 
 const app = express();
-const userRouter = new UserRouter();
-const productRouter = new ProductRouter();
-const cartRouter = new CartRouter();
-const mocksRouter = new MocksRouter();
 
 app.use(cookieParser())
 app.use(express.json());
@@ -38,10 +31,7 @@ app.use((req, res, next) => {
 iniciarPassport()
 
 app.use(passport.initialize())
-app.use("/api/sessions", userRouter.getRouter());
-app.use('/api/products', productRouter.getRouter());
-app.use('/api/carts', cartRouter.getRouter());
-app.use('/api/mocks', mocksRouter.getRouter());
+app.use("/api", indexRouter);
 
 const httpServer = app.listen(config.PORT, () => {
     winstonLogger.info(`Server listening on port: ${config.PORT}`);
