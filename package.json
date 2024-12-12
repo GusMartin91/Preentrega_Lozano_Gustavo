@@ -30,9 +30,7 @@
     "passport-jwt": "^4.0.1",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
-    "winston": "^3.16.0"
-  },
-  "devDependencies": {
+    "winston": "^3.16.0",
     "@faker-js/faker": "^9.2.0",
     "chai": "^5.1.2",
     "cross-env": "^7.0.3",
