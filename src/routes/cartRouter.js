@@ -1,7 +1,7 @@
 import { CustomRouter } from './router.js';
 import CartController from '../controllers/CartController.js';
 import { body, param } from 'express-validator';
-import { passportCall } from '../utils.js';
+import { passportCall } from '../../utils.js';
 
 export class CartRouter extends CustomRouter {
     init() {

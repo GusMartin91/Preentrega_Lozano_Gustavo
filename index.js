@@ -1,12 +1,15 @@
 import express from "express";
 import cookieParser from "cookie-parser"
-import __dirname from "./utils.js";
-import { MongoDB } from "./config/mongoDB.config.js";
-import { config } from "./config/envs.config.js";
 import passport from 'passport';
-import { iniciarPassport } from './config/passport.config.js';
-import indexRouter from "./routes/index.router.js";
-import winstonLogger from './utils/winston.utils.js';
+import { serve, setup } from "swagger-ui-express";
+import swaggerJSDoc from "swagger-jsdoc";
+import __dirname from "./utils.js";
+import { MongoDB } from "./src/config/mongoDB.config.js";
+import { config } from "./src/config/envs.config.js";
+import { iniciarPassport } from './src/config/passport.config.js';
+import indexRouter from "./src/routes/index.router.js";
+import winstonLogger from './src/utils/winston.utils.js';
+import opts from "./src/utils/swaggerOpts.utils.js";
 
 const app = express();
 
@@ -49,3 +52,6 @@ app.use((err, req, res, next) => {
 });
 
 await MongoDB.connect(config.MONGO_URL, config.MONGO_DB);
+
+const specs = swaggerJSDoc(opts)
+app.use("/api/docs", serve, setup(specs))

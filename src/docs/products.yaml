@@ -1,0 +1,170 @@
+openapi: 3.0.0
+info:
+  title: API de Productos
+  description: Documentación de la API para gestionar productos
+  version: 1.0.0
+servers:
+  - url: http://localhost:3000
+    description: Servidor local
+
+components:
+  schemas:
+    Product:
+      type: object
+      properties:
+        title:
+          type: string
+          description: Título del producto
+          example: "Zapatillas deportivas"
+        code:
+          type: string
+          description: Código único del producto
+          example: "AB123"
+        price:
+          type: number
+          description: Precio del producto
+          example: 100
+        stock:
+          type: number
+          description: Cantidad de productos disponibles
+          example: 10
+        thumbnail:
+          type: array
+          items:
+            type: string
+          description: Imágenes del producto (URLs)
+          default: []
+        status:
+          type: boolean
+          description: Estado del producto (activo o inactivo)
+          default: true
+        category:
+          type: string
+          description: Categoría del producto
+          example: "Calzado"
+        description:
+          type: string
+          description: Descripción detallada del producto
+          example: "Zapatillas deportivas de alta calidad."
+      required:
+        - title
+        - code
+        - price
+        - stock
+
+  responses:
+    success:
+      type: object
+      properties:
+        response:
+          type: object
+          description: Respuesta de éxito con los datos del producto
+        message:
+          type: string
+          description: Mensaje de la operación exitosa
+      example:
+        response: { "title": "Zapatillas deportivas", "code": "AB123", "price": 100, "stock": 10 }
+        message: "Operación exitosa"
+
+paths:
+  /api/products:
+    post:
+      summary: Crear un producto
+      tags:
+        - Product
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Product'
+      responses:
+        201:
+          description: Producto creado exitosamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/responses/success'
+
+    get:
+      summary: Obtener todos los productos
+      tags:
+        - Product
+      responses:
+        200:
+          description: Lista de productos
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  products:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Product'
+                example:
+                  products: [{ "title": "Zapatillas deportivas", "code": "AB123", "price": 100, "stock": 10 }]
+
+  /api/products/{pid}:
+    get:
+      summary: Obtener un producto por ID
+      tags:
+        - Product
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          schema:
+            type: string
+          description: ID del producto
+      responses:
+        200:
+          description: Producto encontrado exitosamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/responses/success'
+
+    put:
+      summary: Actualizar un producto por ID
+      tags:
+        - Product
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          schema:
+            type: string
+          description: ID del producto
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Product'
+      responses:
+        200:
+          description: Producto actualizado exitosamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/responses/success'
+
+    delete:
+      summary: Eliminar un producto por ID
+      tags:
+        - Product
+      parameters:
+        - name: pid
+          in: path
+          required: true
+          schema:
+            type: string
+          description: ID del producto
+      responses:
+        200:
+          description: Producto eliminado exitosamente
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/responses/success'

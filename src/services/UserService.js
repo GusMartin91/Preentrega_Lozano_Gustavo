@@ -27,7 +27,7 @@ class UserService {
         }
     }
 
-    static async register(first_name, last_name, email, password, age) {
+    static async register(first_name, last_name, email, password, age, role) {
         const existingUser = await UsersDAO.getUserByEmail(email);
         if (existingUser) {
             throw new Error('Email already in use');
@@ -42,7 +42,8 @@ class UserService {
             email,
             password: hashedPassword,
             age,
-            cart: newCart._id
+            cart: newCart._id,
+            role: role || 'user'
         };
 
         const createdUser = await UsersDAO.createUser(newUser);
@@ -76,6 +77,10 @@ class UserService {
         });
 
         return await UsersDAO.insertMany(usersWithHashedPasswords);
+    }
+    static async deleteUser(userId) {
+        const deletedUser = await UsersDAO.deleteUserById(userId);
+        return deletedUser;
     }
 }
 

@@ -11,7 +11,7 @@ class ProductController {
         const { title, code, price, stock } = req.body;
         try {
             const product = await ProductService.createProduct({ title, code, price, stock });
-            return res.success({ message: 'Product created successfully', product });
+            return res.created({ message: 'Product created successfully', product });
         } catch (error) {
             return res.internalerror(error.message);
         }

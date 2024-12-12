@@ -14,7 +14,7 @@ class UserController {
             const { message, accessToken, refreshToken, user } = await UserService.login(email, password);
             res.cookie('UserCookie', accessToken, { httpOnly: true });
             res.cookie('RefreshToken', refreshToken, { httpOnly: true });
-            return res.success({ message, user });
+            return res.success({ message, user, accessToken });
         } catch (error) {
             return res.internalerror(error.message);
         }
@@ -42,10 +42,10 @@ class UserController {
             return res.badrequest(errors.array());
         }
 
-        const { first_name, last_name, email, password, age } = req.body;
+        const { first_name, last_name, email, password, age, role } = req.body;
         try {
-            const result = await UserService.register(first_name, last_name, email, password, age);
-            return res.success(result);
+            const result = await UserService.register(first_name, last_name, email, password, age, role);
+            return res.created(result);
         } catch (error) {
             return res.internalerror(error.message);
         }
@@ -77,6 +77,18 @@ class UserController {
     static getCurrentUser(req, res) {
         const userDTO = new UserDTO(req.user);
         return res.success(userDTO);
+    }
+    static async deleteUser(req, res) {
+        try {
+            const userId = req.params.id;
+
+            // Llamar al servicio para eliminar al usuario
+            const result = await UserService.deleteUser(userId);
+
+            return res.success(result);
+        } catch (error) {
+            return res.internalerror(error.message);
+        }
     }
 }
 

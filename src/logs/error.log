@@ -1,2 +1,6 @@
 {"level":"error","message":"Testing error level log","timestamp":"2024-11-06T17:54:55.884Z"}
 {"level":"error","message":"Failed to connect to the database: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2024-11-06 15:05:47"}
+{"timestamp":"2024-12-12 16:47:37","level":"error","message":"Error - Error finding user by ID: User not found - Method: GET - URL: /api/sessions/current - IP: ::1 - Body: {} - Stack: Error: Error finding user by ID: User not found
+    at UsersDAO.getUserById (file:///C:/xampp/htdocs/CoderHouse/Backend%203/Preentrega_Lozano_Gustavo/src/daos/UsersDAO.js:30:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async JwtStrategy._verify (file:///C:/xampp/htdocs/CoderHouse/Backend%203/Preentrega_Lozano_Gustavo/src/config/passport.config.js:29:34)"}

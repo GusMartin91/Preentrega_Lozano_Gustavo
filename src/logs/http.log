@@ -41,3 +41,674 @@
 {"timestamp":"2024-12-10 17:08:18","level":"info","message":"Database connection successfully established on ecommerce_development"}
 {"timestamp":"2024-12-10 17:08:31","level":"info","message":"Server listening on port: 3000"}
 {"timestamp":"2024-12-10 17:08:32","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 09:34:09","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 09:34:10","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 09:35:27","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 09:35:28","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 09:38:12","level":"http","message":"HTTP Request - GET / - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 19ms - Status: 404"}
+{"timestamp":"2024-12-12 09:38:24","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 12ms - Status: 401"}
+{"timestamp":"2024-12-12 09:38:26","level":"http","message":"HTTP Request - GET /favicon.ico - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 09:38:30","level":"http","message":"HTTP Request - GET /api - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:16:57","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:16:58","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:17:33","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:17:33","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:18:29","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:18:30","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:21:53","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:21:54","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:22:07","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"titulo":"zapatillas","stock":100,"precio":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 10:22:07","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 234ms - Status: 200"}
+{"timestamp":"2024-12-12 10:22:07","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 46ms - Status: 200"}
+{"timestamp":"2024-12-12 10:22:07","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 10:22:07","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:22:58","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:22:58","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 118ms - Status: 404"}
+{"timestamp":"2024-12-12 10:22:58","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 10:22:59","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:23:52","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:23:53","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:23:59","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"titulo":"zapatillas","stock":100,"precio":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 10:24:00","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 147ms - Status: 200"}
+{"timestamp":"2024-12-12 10:24:00","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 46ms - Status: 200"}
+{"timestamp":"2024-12-12 10:24:00","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 10:24:00","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 10:25:28","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:25:28","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:29:50","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:29:51","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:29:59","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"titulo":"zapatillas","stock":100,"precio":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 10:29:59","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 145ms - Status: 200"}
+{"timestamp":"2024-12-12 10:29:59","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 45ms - Status: 200"}
+{"timestamp":"2024-12-12 10:29:59","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 10:29:59","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:30:34","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:30:34","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:33:19","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:33:20","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:33:39","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 10:33:40","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 155ms - Status: 200"}
+{"timestamp":"2024-12-12 10:33:40","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 48ms - Status: 200"}
+{"timestamp":"2024-12-12 10:33:40","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 10:33:40","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:34:14","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:34:15","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:34:29","level":"http","message":"HTTP Request - POST /api/products/ - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 10:34:29","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 139ms - Status: 200"}
+{"timestamp":"2024-12-12 10:34:29","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 47ms - Status: 200"}
+{"timestamp":"2024-12-12 10:34:29","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 10:34:29","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:35:28","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:35:29","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:37:08","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:37:09","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:37:20","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 10:39:12","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:39:13","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:39:18","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 12ms - Status: 401"}
+{"timestamp":"2024-12-12 10:40:20","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:40:21","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:40:24","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 10:43:22","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:43:23","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:43:27","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 10:44:21","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:44:22","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:44:34","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:44:34","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:44:38","level":"http","message":"HTTP Request - POST /api/products/ - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 404"}
+{"timestamp":"2024-12-12 10:45:04","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:45:05","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:45:06","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 404"}
+{"timestamp":"2024-12-12 10:45:09","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 10:45:23","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:45:24","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:45:32","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:45:33","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:45:36","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 10:46:10","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:46:11","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:46:32","level":"http","message":"HTTP Request - POST /api/products/ - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 404"}
+{"timestamp":"2024-12-12 10:49:02","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:49:03","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:49:08","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:49:09","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:51:12","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:51:13","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:51:36","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 9ms - Status: 401"}
+{"timestamp":"2024-12-12 10:52:28","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:52:29","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:52:29","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 9ms - Status: 401"}
+{"timestamp":"2024-12-12 10:53:16","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:53:17","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:53:26","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:53:26","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 10:53:26","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:54:12","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:54:13","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:54:14","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 10:54:37","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:54:38","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:54:39","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 14ms - Status: 401"}
+{"timestamp":"2024-12-12 10:55:39","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:55:40","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:55:40","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 10:55:59","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:56:00","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:56:00","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 130ms - Status: 200"}
+{"timestamp":"2024-12-12 10:57:26","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:57:26","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:59:22","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:59:23","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 10:59:28","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 10:59:29","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:04:48","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:04:49","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:04:56","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 11:04:56","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 142ms - Status: 200"}
+{"timestamp":"2024-12-12 11:04:56","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 48ms - Status: 200"}
+{"timestamp":"2024-12-12 11:04:56","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 11:04:56","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 11:05:13","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:05:14","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:05:21","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 10ms - Status: 401"}
+{"timestamp":"2024-12-12 11:05:21","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 134ms - Status: 200"}
+{"timestamp":"2024-12-12 11:05:21","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 47ms - Status: 200"}
+{"timestamp":"2024-12-12 11:05:21","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 11:05:21","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 11:06:04","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:06:04","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:06:09","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 11ms - Status: 401"}
+{"timestamp":"2024-12-12 11:06:09","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 143ms - Status: 200"}
+{"timestamp":"2024-12-12 11:06:09","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 52ms - Status: 200"}
+{"timestamp":"2024-12-12 11:06:09","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 11:06:09","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 1ms - Status: 404"}
+{"timestamp":"2024-12-12 11:08:19","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:08:20","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:08:27","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:08:28","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:08:37","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:08:38","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:08:59","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:09:00","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:09:01","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 9ms - Status: 401"}
+{"timestamp":"2024-12-12 11:20:14","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:20:15","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:21:43","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:21:44","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:22:10","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:22:11","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:22:34","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:22:34","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:22:50","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 436ms - Status: 200"}
+{"timestamp":"2024-12-12 11:24:54","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:24:55","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:25:14","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:25:15","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:25:19","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 108ms - Status: 500"}
+{"timestamp":"2024-12-12 11:26:06","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 382ms - Status: 200"}
+{"timestamp":"2024-12-12 11:28:55","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:28:56","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:29:10","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 346ms - Status: 200"}
+{"timestamp":"2024-12-12 11:30:10","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:30:11","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:31:20","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 80ms - Status: 500"}
+{"timestamp":"2024-12-12 11:32:34","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 330ms - Status: 200"}
+{"timestamp":"2024-12-12 11:37:19","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:37:20","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:37:31","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:37:31","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:38:11","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:38:12","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:38:31","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:38:31","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:39:07","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 355ms - Status: 200"}
+{"timestamp":"2024-12-12 11:43:36","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:43:37","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:47:42","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:47:43","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:49:38","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:49:39","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:49:47","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:49:48","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:57:36","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:57:37","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 11:58:41","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 11:58:42","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:00:12","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 443ms - Status: 200"}
+{"timestamp":"2024-12-12 12:00:12","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 12:01:15","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:01:16","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:01:26","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:01:27","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:02:19","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:02:20","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:05:09","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:05:10","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:05:27","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 435ms - Status: 200"}
+{"timestamp":"2024-12-12 12:05:27","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 7ms - Status: 404"}
+{"timestamp":"2024-12-12 12:08:57","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:08:58","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:09:30","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 347ms - Status: 200"}
+{"timestamp":"2024-12-12 12:09:30","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 8ms - Status: 404"}
+{"timestamp":"2024-12-12 12:11:11","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:11:12","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:11:46","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 366ms - Status: 200"}
+{"timestamp":"2024-12-12 12:11:47","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 10ms - Status: 404"}
+{"timestamp":"2024-12-12 12:14:42","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:14:43","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:14:49","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:14:50","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:14:55","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:14:56","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:15:11","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:15:12","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:15:24","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 368ms - Status: 200"}
+{"timestamp":"2024-12-12 12:15:24","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 7ms - Status: 404"}
+{"timestamp":"2024-12-12 12:16:40","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:16:41","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:16:57","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 364ms - Status: 200"}
+{"timestamp":"2024-12-12 12:16:57","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675afe6812848f6d90b78d13 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 12:18:49","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:18:50","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:18:54","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:18:55","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:29:45","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:29:46","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:30:05","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:30:05","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:30:41","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:30:42","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:30:54","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 364ms - Status: 201"}
+{"timestamp":"2024-12-12 12:30:55","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 182ms - Status: 200"}
+{"timestamp":"2024-12-12 12:30:55","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b01ae438bbb67a17fbc05 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 12:34:59","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:34:59","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:35:20","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:35:20","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:35:25","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 254ms - Status: 200"}
+{"timestamp":"2024-12-12 12:35:25","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 12:36:21","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:36:22","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:36:22","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 456ms - Status: 200"}
+{"timestamp":"2024-12-12 12:36:22","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 12:36:35","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 180ms - Status: 200"}
+{"timestamp":"2024-12-12 12:36:35","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 12:37:04","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:37:05","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:37:06","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 519ms - Status: 200"}
+{"timestamp":"2024-12-12 12:37:06","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 12:40:32","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:40:33","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:40:49","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:40:50","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:41:11","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:41:11","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:41:13","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 265ms - Status: 200"}
+{"timestamp":"2024-12-12 12:41:13","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 8ms - Status: 404"}
+{"timestamp":"2024-12-12 12:41:44","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:41:45","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:41:45","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 653ms - Status: 200"}
+{"timestamp":"2024-12-12 12:41:45","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 12:41:45","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 13ms - Status: 404"}
+{"timestamp":"2024-12-12 12:42:17","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:42:17","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:42:52","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:42:53","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:43:00","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 358ms - Status: 201"}
+{"timestamp":"2024-12-12 12:43:00","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 183ms - Status: 200"}
+{"timestamp":"2024-12-12 12:43:00","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 12:43:00","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b04841a75c43d181a9d28 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 12:44:26","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 12:44:27","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 12:44:34","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 353ms - Status: 201"}
+{"timestamp":"2024-12-12 12:44:34","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 281ms - Status: 200"}
+{"timestamp":"2024-12-12 12:44:34","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 12:44:35","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b04e25e8fab774f13e23f - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 401"}
+{"timestamp":"2024-12-12 14:32:04","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:32:05","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:33:25","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:33:26","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:36:03","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:36:04","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:38:24","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:38:25","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:39:05","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 93ms - Status: 500"}
+{"timestamp":"2024-12-12 14:39:05","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 14:39:28","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 358ms - Status: 201"}
+{"timestamp":"2024-12-12 14:39:28","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 202ms - Status: 200"}
+{"timestamp":"2024-12-12 14:39:28","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 2ms - Status: 401"}
+{"timestamp":"2024-12-12 14:39:28","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b1fd0d997e02844ef41a5 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 14:50:03","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:50:04","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:50:38","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 408ms - Status: 201"}
+{"timestamp":"2024-12-12 14:50:38","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 222ms - Status: 200"}
+{"timestamp":"2024-12-12 14:50:38","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 14:50:38","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b226e11dedae1c2892bf5 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 401"}
+{"timestamp":"2024-12-12 14:52:31","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:52:32","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:53:03","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 211ms - Status: 500"}
+{"timestamp":"2024-12-12 14:53:03","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 14:54:10","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 318ms - Status: 201"}
+{"timestamp":"2024-12-12 14:54:10","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 211ms - Status: 200"}
+{"timestamp":"2024-12-12 14:54:10","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 2ms - Status: 401"}
+{"timestamp":"2024-12-12 14:54:10","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b234245f1df6c0c512cbd - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 14:55:14","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:55:15","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 14:55:20","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 379ms - Status: 201"}
+{"timestamp":"2024-12-12 14:55:20","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 205ms - Status: 200"}
+{"timestamp":"2024-12-12 14:55:20","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 14:55:20","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b238735c2e6c2d9048170 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 401"}
+{"timestamp":"2024-12-12 14:57:52","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 14:57:53","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:04:51","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:04:52","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:05:23","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:05:24","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:05:31","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 353ms - Status: 201"}
+{"timestamp":"2024-12-12 15:05:31","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 183ms - Status: 200"}
+{"timestamp":"2024-12-12 15:06:04","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:06:05","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:06:14","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 343ms - Status: 201"}
+{"timestamp":"2024-12-12 15:06:14","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 178ms - Status: 200"}
+{"timestamp":"2024-12-12 15:06:14","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"ab123","stock":100,"price":100} - Duration: 98ms - Status: 500"}
+{"timestamp":"2024-12-12 15:06:14","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2616545191fa0d779382 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 85ms - Status: 200"}
+{"timestamp":"2024-12-12 15:07:08","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:07:09","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:07:32","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 472ms - Status: 201"}
+{"timestamp":"2024-12-12 15:07:32","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 261ms - Status: 200"}
+{"timestamp":"2024-12-12 15:07:33","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 110ms - Status: 201"}
+{"timestamp":"2024-12-12 15:07:33","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2664894d70953b815085 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 92ms - Status: 200"}
+{"timestamp":"2024-12-12 15:09:15","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:09:16","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:09:29","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:09:30","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 358ms - Status: 201"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 175ms - Status: 200"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 101ms - Status: 201"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 81ms - Status: 200"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 53ms - Status: 200"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:10:00","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b26f81edf152fc0c40eb5 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 89ms - Status: 200"}
+{"timestamp":"2024-12-12 15:11:39","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:11:40","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:12:22","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:12:22","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:12:27","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 384ms - Status: 201"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 196ms - Status: 200"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 112ms - Status: 201"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 86ms - Status: 200"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 47ms - Status: 200"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 15:12:28","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b278b626cad6effa32ee4 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 90ms - Status: 200"}
+{"timestamp":"2024-12-12 15:13:02","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:13:03","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:13:20","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 361ms - Status: 201"}
+{"timestamp":"2024-12-12 15:13:20","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 243ms - Status: 200"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 135ms - Status: 201"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 90ms - Status: 200"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 50ms - Status: 200"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 15:13:21","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b27c0e78d493b8c3ad901 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 91ms - Status: 200"}
+{"timestamp":"2024-12-12 15:14:16","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:14:17","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:15:28","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 354ms - Status: 201"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 176ms - Status: 200"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 96ms - Status: 201"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 83ms - Status: 200"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 48ms - Status: 200"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:15:29","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b28406b000a649a9c3d17 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 89ms - Status: 200"}
+{"timestamp":"2024-12-12 15:15:55","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:15:56","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 356ms - Status: 201"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 203ms - Status: 200"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 101ms - Status: 201"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 90ms - Status: 200"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 53ms - Status: 200"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:16:01","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b28615711859de1b8363e - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 95ms - Status: 200"}
+{"timestamp":"2024-12-12 15:16:38","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:16:40","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:16:46","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:16:47","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:16:55","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:16:56","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:17:01","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 345ms - Status: 201"}
+{"timestamp":"2024-12-12 15:17:01","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 181ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:01","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 97ms - Status: 500"}
+{"timestamp":"2024-12-12 15:17:01","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 94ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:02","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 50ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:02","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 15:17:02","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:17:02","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b289df5014cce04000a19 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 88ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:27","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:17:28","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 390ms - Status: 201"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 177ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 91ms - Status: 201"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 86ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 46ms - Status: 200"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 15:17:36","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b28bfe9df7003e726f39c - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 91ms - Status: 200"}
+{"timestamp":"2024-12-12 15:19:12","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:19:13","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 1153ms - Status: 201"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 226ms - Status: 200"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 125ms - Status: 201"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 93ms - Status: 200"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 50ms - Status: 200"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:19:14","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2921ec2ef90e0fd88dc3 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 94ms - Status: 200"}
+{"timestamp":"2024-12-12 15:20:41","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:20:42","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:20:46","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 364ms - Status: 201"}
+{"timestamp":"2024-12-12 15:20:46","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 199ms - Status: 200"}
+{"timestamp":"2024-12-12 15:20:46","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 99ms - Status: 201"}
+{"timestamp":"2024-12-12 15:20:47","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 84ms - Status: 200"}
+{"timestamp":"2024-12-12 15:20:47","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 47ms - Status: 200"}
+{"timestamp":"2024-12-12 15:20:47","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 15:20:47","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 404"}
+{"timestamp":"2024-12-12 15:20:47","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b297eecba3d66cafa7565 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 99ms - Status: 200"}
+{"timestamp":"2024-12-12 15:21:10","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:21:11","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:21:17","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:21:18","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 473ms - Status: 201"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 179ms - Status: 200"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 97ms - Status: 201"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 84ms - Status: 200"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 46ms - Status: 200"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - PUT /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 15:21:22","level":"http","message":"HTTP Request - DELETE /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 1ms - Status: 404"}
+{"timestamp":"2024-12-12 15:21:23","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b29a232d29da97e9a9356 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 92ms - Status: 200"}
+{"timestamp":"2024-12-12 15:22:24","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:22:25","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:22:36","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 345ms - Status: 201"}
+{"timestamp":"2024-12-12 15:22:37","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 176ms - Status: 200"}
+{"timestamp":"2024-12-12 15:22:37","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 93ms - Status: 201"}
+{"timestamp":"2024-12-12 15:22:38","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 97ms - Status: 200"}
+{"timestamp":"2024-12-12 15:22:38","level":"http","message":"HTTP Request - GET /api/products/675b29ed5746e3b9303ba24f - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 45ms - Status: 200"}
+{"timestamp":"2024-12-12 15:22:38","level":"http","message":"HTTP Request - PUT /api/products/675b29ed5746e3b9303ba24f - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 9ms - Status: 404"}
+{"timestamp":"2024-12-12 15:22:38","level":"http","message":"HTTP Request - DELETE /api/products/675b29ed5746e3b9303ba24f - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 4ms - Status: 404"}
+{"timestamp":"2024-12-12 15:22:38","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b29ec5746e3b9303ba24b - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 95ms - Status: 200"}
+{"timestamp":"2024-12-12 15:24:35","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:24:36","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 366ms - Status: 201"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 177ms - Status: 200"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 93ms - Status: 201"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 83ms - Status: 200"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - GET /api/products/675b2a70c355f10007e2829e - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 42ms - Status: 200"}
+{"timestamp":"2024-12-12 15:24:48","level":"http","message":"HTTP Request - PUT /api/products/675b2a70c355f10007e2829e - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 5ms - Status: 404"}
+{"timestamp":"2024-12-12 15:24:49","level":"http","message":"HTTP Request - DELETE /api/products/675b2a70c355f10007e2829e - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 404"}
+{"timestamp":"2024-12-12 15:24:49","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2a70c355f10007e2829a - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 86ms - Status: 200"}
+{"timestamp":"2024-12-12 15:25:57","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:25:58","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:26:18","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:26:18","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 348ms - Status: 201"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 197ms - Status: 200"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 95ms - Status: 201"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 91ms - Status: 200"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - GET /api/products/675b2ad78a5700c5ae586dcf - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 41ms - Status: 200"}
+{"timestamp":"2024-12-12 15:26:31","level":"http","message":"HTTP Request - PUT /api/products/update/675b2ad78a5700c5ae586dcf - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 3ms - Status: 401"}
+{"timestamp":"2024-12-12 15:26:32","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2ad78a5700c5ae586dcf - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 2ms - Status: 401"}
+{"timestamp":"2024-12-12 15:26:32","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2ad78a5700c5ae586dcb - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 92ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:21","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:27:22","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:27:43","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:27:43","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:27:56","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 404ms - Status: 201"}
+{"timestamp":"2024-12-12 15:27:56","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 182ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:56","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 98ms - Status: 201"}
+{"timestamp":"2024-12-12 15:27:56","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 88ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:56","level":"http","message":"HTTP Request - GET /api/products/675b2b2c98c0c79649bedf07 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 41ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:57","level":"http","message":"HTTP Request - PUT /api/products/update/675b2b2c98c0c79649bedf07 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 97ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:57","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2b2c98c0c79649bedf07 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 83ms - Status: 200"}
+{"timestamp":"2024-12-12 15:27:57","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2b2c98c0c79649bedf03 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 103ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 246ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 166ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 86ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 78ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - GET /api/products/675b2b3398c0c79649bedf18 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 40ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - PUT /api/products/update/675b2b3398c0c79649bedf18 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 88ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2b3398c0c79649bedf18 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 83ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:03","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2b3398c0c79649bedf14 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 82ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:09","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 246ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:09","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 174ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 83ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 75ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - GET /api/products/675b2b3998c0c79649bedf29 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 40ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - PUT /api/products/update/675b2b3998c0c79649bedf29 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 84ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2b3998c0c79649bedf29 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 92ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:10","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2b3998c0c79649bedf25 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 83ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:12","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 247ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:12","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 164ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:12","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 84ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:13","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 77ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:13","level":"http","message":"HTTP Request - GET /api/products/675b2b3c98c0c79649bedf3a - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 39ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:13","level":"http","message":"HTTP Request - PUT /api/products/update/675b2b3c98c0c79649bedf3a - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 85ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:13","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2b3c98c0c79649bedf3a - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 82ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:13","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2b3c98c0c79649bedf36 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 82ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:15","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: undefined - Body: {"first_name":"Test","last_name":"Admin","email":"admin@test.com","password":"123456","role":"admin"} - Duration: 242ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:15","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: undefined - Body: {"email":"admin@test.com","password":"123456"} - Duration: 165ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:15","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: undefined - Body: {"title":"zapatillas","code":"asb123","stock":100,"price":100} - Duration: 83ms - Status: 201"}
+{"timestamp":"2024-12-12 15:28:16","level":"http","message":"HTTP Request - GET /api/products/ - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 74ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:16","level":"http","message":"HTTP Request - GET /api/products/675b2b3f98c0c79649bedf4b - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 38ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:16","level":"http","message":"HTTP Request - PUT /api/products/update/675b2b3f98c0c79649bedf4b - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 84ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:16","level":"http","message":"HTTP Request - DELETE /api/products/delete/675b2b3f98c0c79649bedf4b - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 84ms - Status: 200"}
+{"timestamp":"2024-12-12 15:28:16","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b2b3f98c0c79649bedf47 - IP: ::1 - User-Agent: undefined - Body: {} - Duration: 80ms - Status: 200"}
+{"timestamp":"2024-12-12 15:33:51","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:33:51","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 15:43:07","level":"http","message":"HTTP Request - GET / - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 20ms - Status: 404"}
+{"timestamp":"2024-12-12 15:43:13","level":"http","message":"HTTP Request - GET /api/docs - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 301"}
+{"timestamp":"2024-12-12 15:43:13","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 14ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:13","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 133ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:13","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:15","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2228ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:19","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5798ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:19","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 64ms - Status: 200"}
+{"timestamp":"2024-12-12 15:43:41","level":"http","message":"HTTP Request - POST /api/products - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"titulo":"string","descripcion":"string","imagen":"https://s1.significados.com/foto/producto-og.jpg","stock":1,"price":1} - Duration: 2ms - Status: 401"}
+{"timestamp":"2024-12-12 15:44:53","level":"http","message":"HTTP Request - GET /api/products/672b87eda38ce617c0a69321 - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 136ms - Status: 200"}
+{"timestamp":"2024-12-12 15:55:36","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 15:55:37","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:11:44","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:11:45","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:19:38","level":"http","message":"HTTP Request - GET / - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 16ms - Status: 404"}
+{"timestamp":"2024-12-12 16:19:53","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 11ms - Status: 304"}
+{"timestamp":"2024-12-12 16:19:53","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 9ms - Status: 304"}
+{"timestamp":"2024-12-12 16:19:53","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 12ms - Status: 304"}
+{"timestamp":"2024-12-12 16:19:53","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5ms - Status: 304"}
+{"timestamp":"2024-12-12 16:19:53","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:04","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:04","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:04","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 7ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:04","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:04","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 9ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:06","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:26","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:26","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:26","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 17ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:26","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:26","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:27","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5ms - Status: 304"}
+{"timestamp":"2024-12-12 16:20:34","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:34","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 15ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:34","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:34","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 19ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:34","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 59ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:36","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 200"}
+{"timestamp":"2024-12-12 16:20:48","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:20:49","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:22:22","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:22:23","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:23:11","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 12ms - Status: 304"}
+{"timestamp":"2024-12-12 16:23:11","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 12ms - Status: 304"}
+{"timestamp":"2024-12-12 16:23:11","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:23:11","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 18ms - Status: 304"}
+{"timestamp":"2024-12-12 16:23:11","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 14ms - Status: 304"}
+{"timestamp":"2024-12-12 16:23:14","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:26:00","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:26:01","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:29:30","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:29:31","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:29:33","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 15ms - Status: 200"}
+{"timestamp":"2024-12-12 16:29:33","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 200"}
+{"timestamp":"2024-12-12 16:29:33","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 32ms - Status: 200"}
+{"timestamp":"2024-12-12 16:29:33","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 42ms - Status: 200"}
+{"timestamp":"2024-12-12 16:29:33","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 102ms - Status: 200"}
+{"timestamp":"2024-12-12 16:29:36","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 200"}
+{"timestamp":"2024-12-12 16:30:42","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:42","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 10ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:42","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 14ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:42","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:42","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 8ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:44","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:45","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:45","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:45","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:45","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 9ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:45","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:47","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 5ms - Status: 304"}
+{"timestamp":"2024-12-12 16:30:59","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:30:59","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 153ms - Status: 404"}
+{"timestamp":"2024-12-12 16:30:59","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:31:03","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 8ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:03","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 10ms - Status: 304"}
+{"timestamp":"2024-12-12 16:31:03","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 14ms - Status: 304"}
+{"timestamp":"2024-12-12 16:31:03","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::ffff:127.0.0.1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 18ms - Status: 304"}
+{"timestamp":"2024-12-12 16:31:03","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 1ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:05","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 304"}
+{"timestamp":"2024-12-12 16:31:46","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:31:47","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:31:50","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 13ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:50","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:50","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 33ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:50","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 67ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:50","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 241ms - Status: 200"}
+{"timestamp":"2024-12-12 16:31:52","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 7ms - Status: 304"}
+{"timestamp":"2024-12-12 16:32:16","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:32:17","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:32:19","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 15ms - Status: 200"}
+{"timestamp":"2024-12-12 16:32:19","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 200"}
+{"timestamp":"2024-12-12 16:32:19","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 40ms - Status: 200"}
+{"timestamp":"2024-12-12 16:32:19","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 113ms - Status: 200"}
+{"timestamp":"2024-12-12 16:32:19","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 255ms - Status: 200"}
+{"timestamp":"2024-12-12 16:32:21","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:26","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:36:27","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:36:37","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 21ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:37","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 2ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:37","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 41ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:38","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 91ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:38","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 224ms - Status: 200"}
+{"timestamp":"2024-12-12 16:36:40","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 7ms - Status: 304"}
+{"timestamp":"2024-12-12 16:37:17","level":"http","message":"HTTP Request - GET /api/products/672b87eda38ce617c0a69321 - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 126ms - Status: 304"}
+{"timestamp":"2024-12-12 16:40:44","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:44","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:44","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 35ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:44","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 39ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:44","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 119ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:49","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 4ms - Status: 200"}
+{"timestamp":"2024-12-12 16:40:58","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:40:59","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:41:00","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 14ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:00","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:00","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 38ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:00","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 51ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:00","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 199ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:03","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 8ms - Status: 200"}
+{"timestamp":"2024-12-12 16:41:21","level":"http","message":"HTTP Request - GET /api/users/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 404"}
+{"timestamp":"2024-12-12 16:41:38","level":"http","message":"HTTP Request - POST /api/users/register - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"user"} - Duration: 1ms - Status: 404"}
+{"timestamp":"2024-12-12 16:42:34","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:42:35","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:44:00","level":"info","message":"Server listening on port: 3000"}
+{"timestamp":"2024-12-12 16:44:01","level":"info","message":"Database connection successfully established on ecommerce_development"}
+{"timestamp":"2024-12-12 16:44:05","level":"http","message":"HTTP Request - GET /api/docs/ - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 11ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:05","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-init.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 3ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:05","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui.css - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 32ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:05","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-standalone-preset.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 41ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:05","level":"http","message":"HTTP Request - GET /api/docs/swagger-ui-bundle.js - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 166ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:07","level":"http","message":"HTTP Request - GET /api/docs/favicon-32x32.png - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 304"}
+{"timestamp":"2024-12-12 16:44:18","level":"http","message":"HTTP Request - POST /api/sessions/register - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"user"} - Duration: 373ms - Status: 201"}
+{"timestamp":"2024-12-12 16:44:34","level":"http","message":"HTTP Request - POST /api/sessions/login - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"email":"john.doe@example.com","password":"mypassword123"} - Duration: 192ms - Status: 200"}
+{"timestamp":"2024-12-12 16:44:53","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 58ms - Status: 200"}
+{"timestamp":"2024-12-12 16:45:29","level":"http","message":"HTTP Request - PUT /api/sessions/update - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"user"} - Duration: 245ms - Status: 200"}
+{"timestamp":"2024-12-12 16:45:52","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b3d1235c0debd3e5b48a1 - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 9ms - Status: 403"}
+{"timestamp":"2024-12-12 16:46:12","level":"http","message":"HTTP Request - PUT /api/sessions/update - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"admin"} - Duration: 223ms - Status: 200"}
+{"timestamp":"2024-12-12 16:46:18","level":"http","message":"HTTP Request - PUT /api/sessions/update - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"admin"} - Duration: 217ms - Status: 200"}
+{"timestamp":"2024-12-12 16:46:29","level":"http","message":"HTTP Request - DELETE /api/sessions/delete/675b3d1235c0debd3e5b48a1 - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 6ms - Status: 403"}
+{"timestamp":"2024-12-12 16:47:04","level":"http","message":"HTTP Request - PUT /api/sessions/update - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {"first_name":"John","last_name":"Doe","email":"john.doe@example.com","age":25,"password":"mypassword123","cart":"63f2c1845e8b3d36f44b65f9","role":"admin"} - Duration: 219ms - Status: 200"}
+{"timestamp":"2024-12-12 16:47:28","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 45ms - Status: 200"}
+{"timestamp":"2024-12-12 16:47:37","level":"error","message":"Error - Error finding user by ID: User not found - Method: GET - URL: /api/sessions/current - IP: ::1 - Body: {} - Stack: Error: Error finding user by ID: User not found
+    at UsersDAO.getUserById (file:///C:/xampp/htdocs/CoderHouse/Backend%203/Preentrega_Lozano_Gustavo/src/daos/UsersDAO.js:30:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async JwtStrategy._verify (file:///C:/xampp/htdocs/CoderHouse/Backend%203/Preentrega_Lozano_Gustavo/src/config/passport.config.js:29:34)"}
+{"timestamp":"2024-12-12 16:47:37","level":"http","message":"HTTP Request - GET /api/sessions/current - IP: ::1 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 - Body: {} - Duration: 50ms - Status: 500"}

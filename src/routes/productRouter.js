@@ -1,7 +1,7 @@
 import { body } from 'express-validator';
 import { CustomRouter } from './router.js';
 import ProductController from '../controllers/ProductController.js';
-import { passportCall } from '../utils.js';
+import { passportCall } from '../../utils.js';
 
 export class ProductRouter extends CustomRouter {
     init() {
